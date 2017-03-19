@@ -6,8 +6,10 @@ local pnpc = API.load("pnpc")
 function ee_gfx.onDraw()
 	for _,v in ipairs(NPC.get(-1,player.section)) do
 		local npc = pnpc.wrap(v)
-		if npc.data.id then
-			npc.id,npc.data.id = npc.data.id,npc.id
+		if npc.data then
+			if npc.data.id then
+				npc.id,npc.data.id = npc.data.id,npc.id
+			end
 		end
 	end
 end

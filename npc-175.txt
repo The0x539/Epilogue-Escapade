@@ -1,0 +1,3 @@
+gfxoffsety=2
+gfxheight=54
+name="Steel Koopa"
