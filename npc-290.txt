@@ -1,8 +1,9 @@
-width=64
-height=64
+gfxoffsety=-16
 gfxwidth=64
 gfxheight=64
-gfxoffsety=-16
+width=64
+height=64
 frames=4
 framespeed=3
 framestyle=1
+name="z USE THE REGULAR CLOWN CAR, I AM A BROKEN NPC"

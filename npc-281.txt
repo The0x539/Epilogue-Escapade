@@ -1,7 +1,8 @@
-width=32
-height=32
 gfxwidth=32
 gfxheight=32
+width=32
+height=32
 frames=4
 framespeed=5
 framestyle=0
+name="Bowser Jr.'s Shell"
