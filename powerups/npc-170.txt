@@ -1,0 +1,2 @@
+frames=15
+framespeed=7

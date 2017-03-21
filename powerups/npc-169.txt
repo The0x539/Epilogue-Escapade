@@ -1,0 +1,2 @@
+frames=21
+framespeed=8

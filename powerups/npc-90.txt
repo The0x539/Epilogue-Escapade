@@ -1,0 +1,4 @@
+frames=26
+framespeed=4
+framestyle=0
+name="1-Up Shroom"
