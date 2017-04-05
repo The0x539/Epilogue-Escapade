@@ -64,7 +64,7 @@ function ee_npc.onTick()
 	
 	--Boo Swarm (WIP)
 	for _,v in ipairs(NPC.get(211,player.section)) do
-		v.x = rng.random(cam.x,cam.x+768)
+		v.x = rng.random(cam.x,cam.x+cam.width-v.width)
 		v.y = rng.random(cam.y,cam.y+96)
 	end
 	for _,v in ipairs(NPC.get(210,player.section)) do
